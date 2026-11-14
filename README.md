@@ -14,7 +14,7 @@
 
 
 
-! \[Подтягивание изменений](https://github.com/Tteele/LR6/blob/report/Screenshots/1.png?raw=true)
+!\[Подтягивание изменений](https://raw.githubusercontent.com/Tteele/LR6/blob/report/Screenshots/1.png)
 
 
 
