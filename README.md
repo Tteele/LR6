@@ -14,7 +14,7 @@
 
 
 
-!\[Подтягивание изменений](Screenshots/1.png)
+!\[Подтягивание изменений](./Screenshots/1.png)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-!\[Истории операций](Screenshots/2.png)
+!\[Истории операций](./Screenshots/2.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-!\[Просмотр изменений](Screenshots/3.png)
+!\[Просмотр изменений](./Screenshots/3.png)
 
 
 
@@ -38,31 +38,35 @@
 
 
 
-!\[Merge с конфликтом](Screenshots/4.png)
+!\[Merge с конфликтом](./Screenshots/4.png)
 
 
 
-!\[Изменение файла в Блокноте](Screenshots/5.png)
+!\[Изменение файла в Блокноте](./Screenshots/5.png)
 
 
 
-!\[Разрешение конфликта](Screenshots/6.png)
+!\[Разрешение конфликта](./Screenshots/6.png)
 
 
 
-!\[Результат разрешения конфликта](Screenshots/7.png)
+!\[Результат разрешения конфликта](./Screenshots/7.png)
+
+
 
 Удаление побочной ветки после успешного слияния.
 
 
 
-!\[Удаление ветки](Screenshots/8.png)
+!\[Удаление ветки](./Screenshots/8.png)
+
+
 
 Добавление текста в файл LR6 file.txt с комментарием.
 
 
 
-!\[Изменение LR6 file.txt](Screenshots/9.png)
+!\[Изменение LR6 file.txt](./Screenshots/9.png)
 
 
 
@@ -70,7 +74,7 @@
 
 
 
-!\[Создание Pro Git.txt](Screenshots/10.png)
+!\[Создание Pro Git.txt](./Screenshots/10.png)
 
 
 
@@ -78,7 +82,7 @@
 
 
 
-!\[Изменение Pro Git.txt](Screenshots/11.png)
+!\[Изменение Pro Git.txt](./Screenshots/11.png)
 
 
 
@@ -86,7 +90,7 @@
 
 
 
-!\[Изменение Pro Git.txt](Screenshots/12.png)
+!\[Изменение Pro Git.txt](./Screenshots/12.png)
 
 
 
@@ -94,7 +98,7 @@
 
 
 
-!\[Откат коммита](Screenshots/13.png)
+!\[Откат коммита](./Screenshots/13.png)
 
 
 
@@ -102,7 +106,7 @@
 
 
 
-!\[Создание ветки report](Screenshots/14.png)
+!\[Создание ветки report](./Screenshots/14.png)
 
 
 
@@ -110,7 +114,7 @@
 
 
 
-!\[Оформление отчета](Screenshots/15.png)
+!\[Оформление отчета](./Screenshots/15.png)
 
 
 
