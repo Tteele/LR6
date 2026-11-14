@@ -1,1 +1,13 @@
 Добавление файла через интерфейс GitHub
+
+git clone
+git pull
+git branch
+git branch -a
+git checkout
+git log --oneline --graph --all
+git log -n 10 --oneline --all
+git add
+git commit -m
+git branch -d
+git push
