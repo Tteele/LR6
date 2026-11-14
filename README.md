@@ -68,9 +68,41 @@
 
 !\[Создание ветки report](Screenshots/14.png)
 
+Оформление отчета в файле README.md.
+
+!\[Оформление отчета](Screenshots/15.png)
+
 
 
 \## Лог команд
+
+\* git config --global
+
+\* git clone
+
+\* git pull
+
+\* git checkout
+
+\* git log --oneline --graph --all
+
+\* git log -n 5 --oneline --all
+
+\* git add
+
+\* git commit -m ""
+
+\* git branch -d
+
+\* git push
+
+\* git status
+
+\* git reset --soft HEAD\~1
+
+\* git reset --hard HEAD\~1
+
+\* git checkout -b
 
 
 
@@ -78,9 +110,11 @@
 
 
 
+
+
 \## Вывод
 
-
+Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием.
 
 
 
