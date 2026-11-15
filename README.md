@@ -12,111 +12,57 @@
 
 Добавлен файл через интерфейс GitHub и подтянуты изменения в локальный репозиторий.
 
-
-
-!\[Подтягивание изменений](https://raw.githubusercontent.com/Tteele/LR6/blob/report/Screenshots/1.png)
-
-
+![Подтягивание изменений](Screenshots/1.png)
 
 Получены истории операций для каждой из веток.
 
-
-
-!\[Истории операций](./Screenshots/2.png)
-
-
+![Истории операций](Screenshots/2.png)
 
 Просмотрены последние изменения.
 
-
-
-!\[Просмотр изменений](./Screenshots/3.png)
-
-
+![Просмотр изменений](Screenshots/3.png)
 
 Выполнение слияния в ветку master с ручным разрешением конфликта.
 
+![Merge с конфликтом](Screenshots/4.png)
 
+![Изменение файла в Блокноте](Screenshots/5.png)
 
-!\[Merge с конфликтом](./Screenshots/4.png)
+![Разрешение конфликта](Screenshots/6.png)
 
-
-
-!\[Изменение файла в Блокноте](./Screenshots/5.png)
-
-
-
-!\[Разрешение конфликта](./Screenshots/6.png)
-
-
-
-!\[Результат разрешения конфликта](./Screenshots/7.png)
-
-
+![Результат разрешения конфликта](Screenshots/7.png)
 
 Удаление побочной ветки после успешного слияния.
 
-
-
-!\[Удаление ветки](./Screenshots/8.png)
-
-
+![Удаление ветки](Screenshots/8.png)
 
 Добавление текста в файл LR6 file.txt с комментарием.
 
-
-
-!\[Изменение LR6 file.txt](./Screenshots/9.png)
-
-
+![Изменение LR6 file.txt](Screenshots/9.png)
 
 Создание файла Pro Git.txt.
 
-
-
-!\[Создание Pro Git.txt](./Screenshots/10.png)
-
-
+![Создание Pro Git.txt](Screenshots/10.png)
 
 Добавление двух абзацев текста в Pro Git.txt и отправка внесенных изменений на GitHub.
 
-
-
-!\[Изменение Pro Git.txt](./Screenshots/11.png)
-
-
+![Изменение Pro Git.txt](Screenshots/11.png)
 
 Добавление третьего абзаца текста в Pro Git.txt.
 
-
-
-!\[Изменение Pro Git.txt](./Screenshots/12.png)
-
-
+![Изменение Pro Git.txt](Screenshots/12.png)
 
 Выполнение отката коммита.
 
-
-
-!\[Откат коммита](./Screenshots/13.png)
-
-
+![Откат коммита](Screenshots/13.png)
 
 Создание ветки для отчета.
 
-
-
-!\[Создание ветки report](./Screenshots/14.png)
-
-
+![Создание ветки report](Screenshots/14.png)
 
 Оформление отчета в файле README.md.
 
-
-
-!\[Оформление отчета](./Screenshots/15.png)
-
-
+![Оформление отчета](Screenshots/15.png)
 
 ### Лог команд
 
